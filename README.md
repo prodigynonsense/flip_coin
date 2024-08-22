@@ -1,0 +1,3 @@
+# coin-flip
+module address: 0x66fd6237b7f79a1914ec07e9fc9e54c730b732eac1646cbc42d19eb57b0df780
+resource address: 0xcf968bb8f8b269b8a9103af11b3c02a32a6819b1f22bbc33e162838283ed7757
